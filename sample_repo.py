@@ -1,9 +1,10 @@
-""" This is a sample file for Exercise 4 located in my local repository. """
+""" 
+This is a sample file for Exercise 4 that prints out a hello message. 
 
-from email import message
-
+"""
 
 def hello_message(person):
    print("Hello" + " " + person)
 
+print "Who are you?"
 hello_message("Maaida")
